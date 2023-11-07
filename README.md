@@ -1,4 +1,4 @@
 # practices
-practicing websites.
+Practicing websites.
 <br/>
 Author - Mohit Sharma
