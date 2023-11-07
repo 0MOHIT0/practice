@@ -1,3 +1,4 @@
 # practices
-practicing websites
-author - Mohit Sharma
+practicing websites.
+<br/>
+Author - Mohit Sharma
